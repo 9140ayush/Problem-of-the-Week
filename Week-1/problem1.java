@@ -1,5 +1,6 @@
 import java.util.*;
 
+//Min in Sort rotated Array
 public class problem1 {
 
     // Approach 1: Binary Search O(log N)
